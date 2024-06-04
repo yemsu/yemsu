@@ -1,8 +1,8 @@
-### 진행중인 사이드프로젝트
+### 🏃‍♀️ 진행중인 사이드프로젝트
 
 마인크래프트 건축물 커뮤니티 [terracotta](https://terracotta-nu.vercel.app/)
 
-#### stack
+#### 💻 stack
 - Next.js(app router): v14.0.4
 - react: v18
 - typescript: v5.1.3
