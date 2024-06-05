@@ -2,12 +2,11 @@
 
 마인크래프트 건축물 커뮤니티 [terracotta](https://terracotta-nu.vercel.app/)
 
-#### 💻 stack
-- Next.js(app router): v14.0.4
-- react: v18
-- typescript: v5.1.3
-- threejs: v0.160.0
-- tailwindcss: v3.3.0
-- zustand: v4.4.7
-- zod: v3.22.4
-- react-hook-form: v7.49.3
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+</p>
